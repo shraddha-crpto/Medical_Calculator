@@ -1,2 +1,2 @@
-# Medical_Calculator
-This is a Glasgow Coma Scale medical calculator using Python. 
+# Python Projects
+It contains different healthcare projects using pyhton such as implementing a medical calculator, building an EMR, etc. 
