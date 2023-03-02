@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  3 17:54:05 2021
-
-@author: shraddha_gupta
-"""
 
 from tkinter.constants import TRUE
 import mysql.connector
